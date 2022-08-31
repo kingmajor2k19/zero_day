@@ -1,1 +1,1 @@
-learning vagrant
+learning vag
